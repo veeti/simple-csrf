@@ -1,0 +1,22 @@
+{
+  "name": "simple-csrf",
+  "description": "A dead simple CSRF middleware for Connect/Express",
+  "version": "1.0.0",
+  "license": "MIT",
+
+  "dependencies": {
+    "scmp": "^0.0.3"
+  },
+
+  "devDependencies": {
+    "express": "^4.0.0",
+	"body-parser": "^1.0.0",
+	"cookie-session": "^1.0.1",
+    "mocha": "^1.18.2",
+    "supertest": "^0.10.0"
+  },
+
+  "scripts": {
+    "test": "make test"
+  }
+}
