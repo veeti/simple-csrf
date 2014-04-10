@@ -1,7 +1,7 @@
 {
   "name": "simple-csrf",
   "description": "A dead simple CSRF middleware for Connect/Express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "homepage": "https://github.com/veeti/simple-csrf",
   "bugs": "https://github.com/veeti/simple-csrf/issues",
